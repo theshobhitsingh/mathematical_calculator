@@ -27,8 +27,8 @@ To use this calculator locally, follow these steps:
 
    cd calculator
 
-## Open the Calculator : Open the index.html file in your web browser to view and use the calculator.
-
+## Open the Calculator : 
+Open the index.html file in your web browser to view and use the calculator.
    open index.html
 
 ## Usage
